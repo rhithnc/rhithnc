@@ -1,55 +1,47 @@
 # hi, i'm rohith
 
-Senior AI/ML Engineer specializing in Healthcare Data and MLOps.
+ai & ml engineering consultant specializing in healthcare ai, based in new york.
 
-## About Me
+## about me
 
-- Current Role: Senior AI/ML Engineer, Healthcare Data and MLOps
-- Location: New York, US
-- Certifications in progress: Azure AI-900, AZ-104, AZ-900
-- Mission: Building reliable, scalable AI and MLOps systems for healthcare, with a focus on cloud infrastructure and LLM evaluation
+current role: senior ai/ml engineer, healthcare, nyc health + hospitals
+location: new york, ny
+mission: building reliable, scalable ai and mlops systems for healthcare, with a focus on cloud infrastructure and llm evaluation
 
-## Top Skills
+## top skills
 
-**Cloud and Infrastructure:** `Azure` `AKS` `Virtual Machines` `ACR` `Key Vault` `Terraform` `Bicep`
+cloud and data platforms: aws, azure, gcp, snowflake (data warehousing, semantic models), azure devops, postgresql, oracle, sql server
+ai/ml and analytics: generative ai, llms, rag, nlp, deep learning, machine learning, computer vision, time series analysis, statistical modeling, predictive analytics, pytorch, tensorflow, scikit-learn, langchain, pandas, numpy, nltk, spacy, statsmodels
+mlops and devops: azure devops, git, ci/cd pipelines, jira, agile methodologies, model monitoring and retraining, feedback loop systems, etl/elt pipelines, rest apis
+languages and visualization: python, sql, r, tableau, power bi, seaborn, matplotlib
+domain expertise: healthcare (emr, hipaa, clinical data standards, icd-9/10, hcpcs, cpt), life sciences (clinical trial data, r&d data structures, commercial healthcare data, claims)
 
-**MLOps and DevOps:** `Azure DevOps` `CI/CD` `Docker` `Kubernetes` `Git` `MLOps Frameworks`
+## experience highlights
 
-**Backend and Languages:** `Python` `FastAPI` `Scala` `Bash` `YAML`
+senior ai/ml engineer, healthcare, nyc health + hospitals, june 2025 to present: architected snowflake-based data warehousing platform across 11 hospitals and 70+ health centers for 200+ users, implemented snowflake cortex ai and generative ai prototypes reducing manual workload by 30+ hours per week, deployed mlops pipelines with ci/cd using azure devops, operationalized ai assurance and governance framework for hipaa compliant healthcare ai, built etl pipelines processing 10m+ healthcare records monthly
 
-**Data and AI:** `Snowflake` `LLM Evaluation` `Model Monitoring` `Healthcare Data Analytics`
+senior health informatics analyst, weill cornell medicine, july 2021 to march 2025: architected healthcare data solutions and system integrations, built analytics solutions using python, r, and statistical modeling with tableau and power bi dashboards, deployed aws cloud infrastructure for large-scale healthcare datasets
 
-## Experience Highlights
+health informatics analyst, weill cornell medicine, march 2019 to june 2021: developed predictive models using machine learning, nlp, and statistical methods on clinical datasets, built data analytics infrastructure and dashboards from scratch
 
-### Healthcare AI and Clinical Data Analytics
+clinical data scientist, indiana university, aug 2017 to aug 2018: developed ml models and predictive algorithms using python, r, sql, sas for clinical datasets, built data integration pipelines for structured and unstructured healthcare data
 
-- Built AI assurance framework for discharge summary generation, focused on validation and quality control
-- Developed appeal automation systems for healthcare claims processing
-- Worked extensively with clinical data pipelines and healthcare compliance requirements
+research data analyst, indiana university, oct 2016 to july 2017: engineered etl pipelines using sql and python for clinical research data, built dashboards in tableau and power bi, established data governance framework
 
-### Cloud Infrastructure and DevOps
+## certifications
 
-- Managed Azure cloud infrastructure including AKS clusters, VMs, ACR, and Key Vault
-- Built and maintained CI/CD pipelines using Azure DevOps
-- Implemented containerization and orchestration workflows with Docker and Kubernetes
+snowflake, generative ai and ml development
+snowpro associate, platform certification
+snowflake generative ai specialization
+microsoft certified, azure fundamentals az-900
+google cloud, generative ai leader specialization
+cornell university, leadership essentials
 
-### Backend Development
+## connect with me
 
-- Developed FastAPI and Python backend services for AI/ML applications
-- Worked with Snowflake for data warehousing and analytics
+linkedin: linkedin.com/in/rhithnc
+github: github.com/rhithnc
 
-## Certifications
+## fun fact
 
-- Microsoft Certified: Azure AI Fundamentals (AI-900) - in progress
-- Microsoft Certified: Azure Administrator Associate (AZ-104) - in progress
-- Microsoft Certified: Azure Fundamentals (AZ-900) - in progress
-
-## Connect With Me
-
-- LinkedIn: add your link here
-- GitHub: add your link here
-- Email: add your email here
-
-## Fun Fact
-
-Always exploring new ways to combine healthcare data, MLOps, and LLM evaluation to build systems that actually work in production.
+always exploring new ways to combine healthcare data, mlops, and llm evaluation to build systems that work in production.
