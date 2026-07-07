@@ -35,4 +35,3 @@ snowpro associate, microsoft azure fundamentals (az-900), google cloud generativ
 ## reach me
 
 linkedin: linkedin.com/in/rhithnc
-email: thiruvallururohith@gmail.com
