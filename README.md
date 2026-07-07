@@ -1,11 +1,11 @@
 # hi, i'm rohith
 
-Senior AI/ML Engineer specializing in Healthcare Data and MLOps, based in Stamford, Connecticut.
+Senior AI/ML Engineer specializing in Healthcare Data and MLOps.
 
 ## About Me
 
 - Current Role: Senior AI/ML Engineer, Healthcare Data and MLOps
-- Location: Stamford, Connecticut, US
+- Location: New York, US
 - Certifications in progress: Azure AI-900, AZ-104, AZ-900
 - Mission: Building reliable, scalable AI and MLOps systems for healthcare, with a focus on cloud infrastructure and LLM evaluation
 
