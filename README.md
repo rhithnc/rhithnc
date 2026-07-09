@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## About
 
 Senior AI/ML Engineer building generative AI and MLOps systems for healthcare — spanning Snowflake, Azure, and LLM pipelines — to take clinical AI from prototype to production, currently at NYC Health + Hospitals.
