@@ -1,37 +1,47 @@
-# rohith t
+<div align="center">
 
-senior ai/ml engineer working on healthcare ai systems and mlops at nyc health + hospitals.
+# Rohith T
 
-![azure](https://img.shields.io/badge/azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**Senior AI/ML Engineer | Healthcare AI & MLOps | Azure Cloud**
 
-## what i do
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-FF6B6B?style=for-the-badge&logo=googlehealth&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-4ECDC4?style=for-the-badge&logo=mlflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-i build generative ai and mlops systems for healthcare, working across snowflake, azure, and llm pipelines to move clinical ai from prototype to production.
+</div>
 
-## impact
+---
 
-- built a snowflake data platform across 11 hospitals and 70+ health centers, serving 200+ analysts
-- shipped generative ai tools (cortex ai, llm documentation assistants) that cut manual review time by 30+ hours a week
-- automated etl pipelines processing 10m+ healthcare records a month, cutting manual prep time by 75 percent
-- set up ai governance and monitoring frameworks for hipaa compliant clinical ai systems
+## About
 
-## tech stack
+Senior AI/ML Engineer building generative AI and MLOps systems for healthcare — spanning Snowflake, Azure, and LLM pipelines — to take clinical AI from prototype to production, currently at NYC Health + Hospitals.
 
-languages: python, sql, r
-cloud: azure, aws, gcp
-data: snowflake, postgresql, oracle
-ai/ml: pytorch, tensorflow, langchain, scikit-learn, nlp, llms, rag
-mlops: azure devops, git, ci/cd, docker, kubernetes
+## Impact
 
-## certifications
+- Built a Snowflake data platform spanning 11 hospitals and 70+ health centers, serving 200+ analysts
+- Shipped generative AI tools (Cortex AI, LLM documentation assistants) that reduced manual review time by 30+ hours/week
+- Automated ETL pipelines processing 10M+ healthcare records/month, cutting manual prep time by 75%
+- Established AI governance and monitoring frameworks for HIPAA-compliant clinical AI systems
 
-snowpro associate, microsoft azure fundamentals (az-900), google cloud generative ai leader, snowflake generative ai specialization
+## Tech Stack
 
-## reach me
+| Category | Tools |
+|---|---|
+| Languages | Python, SQL, R |
+| Cloud | Azure, AWS, GCP |
+| Data | Snowflake, PostgreSQL, Oracle |
+| AI/ML | PyTorch, TensorFlow, LangChain, scikit-learn, NLP, LLMs, RAG |
+| MLOps | Azure DevOps, Git, CI/CD, Docker, Kubernetes |
 
-linkedin: linkedin.com/in/rhithnc
+## Certifications
+
+SnowPro Associate · Microsoft Azure Fundamentals (AZ-900) · Google Cloud Generative AI Leader · Snowflake Generative AI Specialization
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rhithnc/)
